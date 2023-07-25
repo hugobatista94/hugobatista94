@@ -1,7 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/Hugobatista94/"><i>Hugo Batista de Oliveira</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web na <a href="https://www.udemy.com/"><i>Udemy</i></a> & <a href="https://www.alura.com.br/"><i>Alura</i></a>😎
-  </a><br>
+
 
 <div align="center">
   <a href="https://github.com/hugobatista94">
