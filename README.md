@@ -39,8 +39,3 @@ Sou Engenheiro de QA com foco em **estruturar processos**, **melhorar fluxos** e
 
 ---
 
-
-## 🤝 Vamos conversar?
-
-Se quiser trocar ideias sobre qualidade, automação leve, testes manuais ou processos de QA:  
-[📩 Me chama no LinkedIn](www.linkedin.com/in/hugobatista94)
