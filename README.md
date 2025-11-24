@@ -14,7 +14,7 @@ Sou Engenheiro de QA com foco em **estruturar processos**, **melhorar fluxos** e
 - 🧪 Conhecimento sólido em testes manuais, exploratórios e bug bashes
 - 📈 Forte atuação em observabilidade com análise de logs e prevenção de falhas
 - 📎 Experiência com ferramentas como Jira, Confluence, Figma
-- 🧰 Ferramentas técnicas: SQL Server, Postman, Swagger, JMeter
+- 🧰 Ferramentas técnicas: Cypress, SQL Server, Postman, Swagger, JMeter
 
 ---
 
