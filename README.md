@@ -1,43 +1,46 @@
-<div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/Hugobatista94/"><i>Hugo Batista de Oliveira</i></a> 😃️</h1>
+#  Olá, eu sou Hugo!
+
+Sou Engenheiro de QA com foco em **estruturar processos**, **melhorar fluxos** e **garantir entregas com excelência**. Minha paixão é enxergar a qualidade como um todo: dos testes à prevenção, da observabilidade à melhoria contínua.
+
+---
+
+## 📝 Sobre mim
+
+- 🎯 QA estratégico com atuação sólida em múltiplas frentes de qualidade
+- 🧩 Estruturação de processos de testes (exploratórios, regressivos e E2E) com foco em cobertura e rastreabilidade
+- 📚 Especialista em documentação e gestão de testes com X-Ray integrado ao Jira
+- 🐞 Implementador de reuniões de Bug Review com foco em análise de falhas, logs e observabilidade
+- 🔍 Experiência com a pirâmide de testes e visão de testes ponta a ponta (test-end, to-end)
+- 🧪 Conhecimento sólido em testes manuais, exploratórios e bug bashes
+- 📈 Forte atuação em observabilidade com análise de logs e prevenção de falhas
+- 📎 Experiência com ferramentas como Jira, Confluence, Figma
+- 🧰 Ferramentas técnicas: SQL Server, Postman, Swagger, JMeter
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![JMeter](https://img.shields.io/badge/-JMeter-D22128?style=flat&logo=apachejmeter&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
+[![SoapUI](https://img.shields.io/badge/SoapUI-6CB33F?style=flat&logo=soapui&logoColor=white)](https://www.soapui.org/)
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)](https://www.cypress.io/)
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 
 
-<div align="center">
-  <a href="https://github.com/hugobatista94">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hugobatista94&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugobatista94&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+---
+## 🌐 Me acompanhe por aí
 
-## 🛠 &nbsp;Tech Stack
+- 📸 [Instagram - @hugobatista94](https://www.instagram.com/hugobatista94)
+- 💼 [LinkedIn - hugobatista94](https://www.linkedin.com/in/hugobatista94/)
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
-  <br><br>
+---
 
- <div align="left"> <h3> 🤝🏻 Connect with Me </h3>
-  
-<div align="center">
-  
-  <a href="https://www.instagram.com/Hugobatista94/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <!-- <a href="https://www.facebook.com/pr.HugoBatista" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  -->
-  <a href="https://www.linkedin.com/in/Hugobatista94/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:Batistahugo21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/Hugobatista94/hugobatista94/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+## 🤝 Vamos conversar?
 
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  
+Se quiser trocar ideias sobre qualidade, automação leve, testes manuais ou processos de QA:  
+[📩 Me chama no LinkedIn](www.linkedin.com/in/hugobatista94)
