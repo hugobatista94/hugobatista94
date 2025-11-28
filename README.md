@@ -13,7 +13,7 @@ Sou Engenheiro de QA com foco em **estruturar processos**, **melhorar fluxos** e
 - 🔍 Experiência com a pirâmide de testes e visão de testes ponta a ponta (test-end, to-end)
 - 🧪 Conhecimento sólido em testes manuais, exploratórios e bug bashes
 - 📈 Forte atuação em observabilidade com análise de logs e prevenção de falhas
-- 📎 Experiência com ferramentas como Jira com X-ray, Confluence, Figma
+- 📎 Experiência com ferramentas como Jira + Xray, Confluence, Figma
 - 🧰 Ferramentas técnicas: Cypress, SQL Server, Postman, Swagger, JMeter
 
 ---
